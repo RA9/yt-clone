@@ -16,11 +16,10 @@
 
 .main-nav {
     margin: 0px auto;
-    width: 100%;
 }
 
-.main-nav input[type=text] {
-    width: 60%;
+ input[type=text] {
+    width: 80%;
     padding: 12px 15px;
     margin: 6px 0;
     box-sizing: border-box;
